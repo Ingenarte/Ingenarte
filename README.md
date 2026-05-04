@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Ingenarte · Software Factory &amp; Systems Engineering Consultancy</h1>
+<h1 align="center">Ingenarte · Product Engineering & AI Systems</h1>
 
 <p align="center">
   <a href="https://www.ingenarte.com">Website</a> ·
@@ -10,73 +8,117 @@
 
 ---
 
-> **Ingenarte designs, builds, and operates software products end-to-end —> From the first requirements interview to a secure, observable production rollout, and provides ongoing operational maintenance as a service.**
+> **Ingenarte designs and delivers production-ready software products and AI systems — combining product thinking, frontend excellence, and scalable architecture.**
 
-<br/>
+---
 
-## Core Services
+## What Ingenarte Does
 
-| Capability | Highlights |
-| --- | --- |
-| **End-to-End Product Development** | Requirements capture · UX & UI · Architecture · Implementation · QA Automation · CI/CD · Cloud deployment |
-| **Systems Engineering Consultancy** | Architectural reviews · Performance & cost optimisation · Security & compliance audits · DevOps & SRE mentoring |
-| **Team Augmentation** | Cross-functional squads ready to embed alongside existing teams |
-| **Operational Maintenance as a Service** | 24×7 monitoring · Incident response · Capacity planning · Continuous improvement |
+Ingenarte operates as a **product engineering partner**, focused on building and evolving real systems — not just writing code.
 
-<br/>
+Typical engagements include:
 
-## Technology Stack (Representative)
+- turning ideas into production-ready products  
+- scaling or restructuring existing systems  
+- implementing AI features into real applications  
+- improving UX, performance, and system reliability  
 
-```text
-Languages          : TypeScript • Python • C • C# • Solidity
-Front-end          : React • Next.js • Angular • Flutter
-Back-end           : Node.js • Spring Boot • FastAPI • .NET Core
-Data               : PostgreSQL • MongoDB • Redis • Kafka • GraphQL
-Embedded & IoT     : AVR/PIC/HC11 (Assembly & C) • UART • SPI • CAN • Modbus • RS-485
-Cloud & DevOps     : AWS • Azure • GCP • Docker • Kubernetes • Terraform
-Quality & Testing  : Jest • Cypress • Playwright • SonarQube • Gatling
-Web3 & Smart Contracts : Hardhat • Ethers.js • OpenZeppelin
-```
+---
 
-<sup>*List focused on platforms actively used across Ingenarte projects -> (open to others).*</sup>
+## Core Capabilities
 
-<br/>
+- **Product Engineering (0 → 1 / 1 → N)**  
+  From early-stage ideas to scalable production systems.
 
-## Delivery Process
+- **Frontend-First Development**  
+  High-quality UX, performance, and real usability as a core engineering concern.
 
-1. **Discovery Workshop** – Align on vision, scope, and success metrics.  
-2. **Architecture & Roadmap** – Produce a living blueprint and phased plan.  
-3. **Agile Implementation** – Iterative delivery with CI, automated testing, and design reviews.  
-4. **Launch & Support** – Production rollout, monitoring, and optional 24×7 support.  
+- **AI Systems & LLM Integration**  
+  Practical AI pipelines, automation workflows, and user-facing AI features.
 
-<br/>
+- **Backend & API Architecture**  
+  Clean, maintainable, and scalable service design.
+
+- **DevOps & Production Systems**  
+  CI/CD, containerization, deployment, and observability.
+
+---
+
+## Selected Work
+
+### 🚀 Product & SaaS
+
+- [LinkedIn Save to PDF](https://github.com/Ingenarte/Linkedin_Save_to_PDF)  
+  Chrome extension that generates clean, print-ready PDFs from LinkedIn profiles when native export is unavailable.  
+  **Tech:** Chrome APIs, DOM processing, client-side rendering  
+  **Focus:** Product UX, browser automation, real-world usability  
+
+---
+
+### 🤖 AI & Automation
+
+- [AgentVoice1](https://github.com/Ingenarte/AgentVoice1)  
+  AI-driven system for voice and interaction workflows.  
+  **Tech:** Python, automation pipelines  
+  **Focus:** LLM-oriented architecture, system integration  
+
+- [AI Chat Frontend](https://github.com/Ingenarte/ia-chat-frontend-developer)  
+  Frontend interface for LLM-based systems.  
+  **Tech:** TypeScript, modern frontend stack  
+  **Focus:** Interaction design, usability, real AI integration  
+
+---
+
+### ⚙️ Engineering & Systems
+
+- [Ingenarte AutoClicker](https://github.com/Ingenarte/Ingenarte_AutoClicker)  
+  Cross-platform automation tool for testing and workflow acceleration.  
+  **Focus:** Productivity tooling, system interaction automation  
+
+- [react-tetris2](https://github.com/Ingenarte/react-tetris2)  
+  Advanced React component with complex state management and rendering logic.  
+  **Focus:** Architecture, performance, reusable component design  
+
+---
+
+### 🎨 UI / Frontend
+
+- [Animated Sidebar](https://github.com/Ingenarte/Sidebar)  
+  UI component demonstrating interaction design and visual feedback patterns.  
+  **Focus:** Micro-interactions, UX detail, frontend polish  
+
+---
+
+## How Ingenarte Works
+
+1. **Problem Framing**  
+   Identify the real problem behind the request.
+
+2. **System Design**  
+   Define a scalable and maintainable architecture.
+
+3. **Iterative Delivery**  
+   Deliver working software continuously with production standards.
+
+4. **Production & Evolution**  
+   Deploy, monitor, and improve over time.
+
+---
 
 ## Differentiators
 
-- Cross-functional squads integrating product, design, engineering, QA, and DevOps.  
-- Domain-driven design and test-first mindset ensuring maintainability.  
-- Transparent communication with weekly demos, documented decisions, and public dashboards.  
-- Proven track record in **fintech, health-tech, e-commerce, industry 4.0, and public-sector digital services** (e-government portals, open-data APIs, and citizen-facing mobile apps).  
+- **Product-first mindset** → focus on outcomes, not just delivery  
+- **Frontend excellence** → systems that are actually usable and performant  
+- **End-to-end execution** → architecture + implementation combined  
+- **AI-ready approach** → systems designed for automation from the start  
+- **Systems thinking** → long-term scalability and maintainability  
 
-<br/>
+---
 
-## Selected Open-Source Contributions
+## Technology Focus
 
-- [react-tetris2](https://github.com/Ingenarte/react-tetris2) — Custom React component showcasing functional-component game logic.  
-- [Ingenarte AutoClicker](https://github.com/Ingenarte/Ingenarte_AutoClicker) — Cross-platform automation tool for rapid testing and demos.  
-
-*Visit the **Repositories** tab for more.*
-
-<br/>
-
-## Let’s Build Something Great
-
-Have an idea, a challenge, or an existing product in need of new energy? **Ingenarte could solve it.**  
-Reach out via [contacto.ingenarte@gmail.com](mailto:contacto.ingenarte@gmail.com) or open an issue in this repository to start the conversation.
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ingenarte?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Ingenarte?style=social" alt="GitHub stars" />
-</p>
-
-
+```text
+TypeScript • Python • React • Next.js • Angular
+FastAPI • Node.js • PostgreSQL • Redis
+Docker • Cloudflare • AWS
+LLMs • Automation • System Design
